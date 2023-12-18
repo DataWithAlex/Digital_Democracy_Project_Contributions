@@ -16,4 +16,3 @@ The 'Democracy_Project.ipynb' file is a notebook file that includes teh start of
 2) Create Pro's and Con's for each bill using OpenAI API
 3) Generate a better format for each bill that includes all relevant information for each bill
 4) Create a user interface that is easy to use for people at the Digital Democracy Project.
-5)  
